@@ -16,7 +16,9 @@ un peu de blabla un peu de blabla un peu de blabla un peu de blabla.
 
 un peu encore.
 
-/ du code ?
-/ encore ?
-// et là ?
-/// Toujours ?
+''' JAVA
+du code ?
+encore ?
+et là ?
+Toujours ?
+'''
